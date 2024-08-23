@@ -15,8 +15,8 @@ This Python application allows users to extract frames from a video file and sav
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/RobertFlemingii/VideoFrameExtractor.git
+   cd VideoFrameExtractor
    ```
 
 2. **Install Dependencies**:
@@ -30,7 +30,7 @@ This Python application allows users to extract frames from a video file and sav
 1. **Run the Application**:
 
    ```bash
-   python app.py
+   python video_to_frames.py
    ```
 
 2. **Select Video and Output Folder**:
